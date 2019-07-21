@@ -1,0 +1,7 @@
+name: mruby-loadavg
+description: Loadavg class
+author: tos-miyake
+website: https://github.com/tos-miyake/mruby-loadavg
+protocol: git
+repository: https://github.com/tos-miyake/mruby-loadavg.git
+license: MIT
